@@ -15,6 +15,6 @@ Resource Query
    :hidden: 
 
    querying_resources_of_a_specific_type
-   querying_cloud_services,_resources,_and_regions_supported_by_rms
+   querying_cloud_services_resources_and_regions_supported_by_rms
    querying_a_resource
    querying_all_resources_under_your_account
