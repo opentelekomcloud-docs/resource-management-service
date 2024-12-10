@@ -110,7 +110,7 @@ html_copy_source = False
 latex_documents = [
     ('index',
      'rms-api-ref.tex',
-     u'Resource Management Service - API Reference',
+    u'Resource Management Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
 ]
 
